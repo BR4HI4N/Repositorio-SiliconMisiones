@@ -6,7 +6,7 @@ let devProfile = {
     skills: ["JavaScript", "React", "Node.js", "SQL"],
     isEmployed: true,
     contact: {
-      email: "brahian.davalos@example.com",
+      email: "brahian.davalos@gmail.com",
       location: "Posadas, Argentina"
     }
   };
